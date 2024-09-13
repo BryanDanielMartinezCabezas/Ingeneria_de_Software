@@ -1,0 +1,5 @@
+com\sis324\ecomerce\services\UserService.class
+com\sis324\ecomerce\EcomerceApplication.class
+com\sis324\ecomerce\models\User.class
+com\sis324\ecomerce\controllers\UserController.class
+com\sis324\ecomerce\repositories\UserRepository.class
